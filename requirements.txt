@@ -1,0 +1,10 @@
+absl-py==2.1.0
+transformers==4.34.0
+datasets==2.13.0
+accelerate==0.23.0
+bitsandbytes==0.41.1
+trl==0.4.7
+safetensors>=0.3.1
+tqdm==4.66.4
+pytorch-lightning==2.3.0
+deepspeed==0.10.0
